@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.db { display: block; }
+.df { display: flex; align-items: center; }
+
+.w100 { width: 100px; }
+.w300 { width: 300px; }
+
+.mt10 { margin-top: 10px; }
+.mt20 { margin-top:  20px; }
+
+.mr10 { margin-right: 10px; }
+
+.ml10 { margin-left: 10px; }
+.ml20 { margin-left: 20px; }
+
+.header {
+  font-size: 24px;
+  line-height: 48px;
+}
+
+.table-box {
+  margin-bottom: 20px;
+  margin-right: 20px;
+}
